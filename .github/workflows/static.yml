@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="style.css" rel="stylesheet" />
+  </head>
+  <body>
+    <img
+      src="https://i.pinimg.com/736x/33/ee/f5/33eef535b2ffa74da6a14c01834f2932.jpg"
+      width="150"
+      alt="Logotipo Minecraft"
+    />
+
+    <h1>Minecraft apk</h1>
+    <select>
+      <option value="">26.45</option>
+      <option value="">26.30</option>
+      <option value="">26.23</option>
+    </select>
+
+    <p>escolha sua versao acima👇</p>
+
+    <a href="https://pin.it/6AjJd0bSI">Minecraft</a>
+  </body>
+</html>
